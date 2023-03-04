@@ -119,20 +119,20 @@
   margin-bottom: 40px;
 }
 
-.main_footer{
+.form{
   height: 90px;
   background-color: #DDDDDD;
   padding: 20px 40px;
   display: flex;
 }
 
-.message_form{
+.form-input{
   background-color: white;
   width: 100%;
   display: flex;
 }
 
-.text_form{
+.form-message{
   border: none;
   height: 50px;
   width: 100%;
@@ -153,7 +153,7 @@
   display: none;
 }
 
-.send_btn{
+.form-submit{
   height: 50px;
   font-size: 16px;
   color: white;
